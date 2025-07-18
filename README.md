@@ -1,4 +1,4 @@
-# ArchiSet: Benchmarking Editable and Consistent Single-View 3D Reconstruction of Buildings with Specific Window-to-Wall Ratios
+# \[ICCV 25\] ArchiSet: Benchmarking Editable and Consistent Single-View 3D Reconstruction of Buildings with Specific Window-to-Wall Ratios
 
 ## Abstract
 
